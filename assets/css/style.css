@@ -1321,9 +1321,6 @@ section {
 }
 
 @media (max-width:500px){
-  .home-image{
-  
-  }
   .abt-section{
     align-items: start !important;
   }
